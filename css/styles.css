@@ -132,10 +132,9 @@ table {
 body {
   display: flex;
   justify-content: space-between;
-  max-width: 95%;
-  width: 100%;
+  max-width: 1920px;
+  width: 95%;
   margin: 0 auto;
-  /* background: #141313; */
   background: #333;
   color: #ffffff;
   font-family: "Roboto", sans-serif;
